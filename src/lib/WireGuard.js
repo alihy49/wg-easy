@@ -255,6 +255,7 @@ Endpoint = ${WG_HOST}:${WG_PORT}`;
       privateKey,
       publicKey,
       preSharedKey,
+      clientId,
 
       createdAt: new Date(),
       updatedAt: new Date(),
